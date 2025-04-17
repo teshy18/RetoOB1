@@ -3,8 +3,6 @@ import java.util.Scanner;
 
 public class Main {
 
-
-
         public static void main(String[] args) {
 
             int maximosIntentos = 5;
@@ -37,7 +35,6 @@ public class Main {
                 System.out.println("Lo siento, no conseguiste adivinar el número en 5 intentoActual. El número era " + numeroGenerado);
             }
         }
-
 
 
 };
